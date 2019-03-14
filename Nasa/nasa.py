@@ -3,9 +3,8 @@ import io
 import random
 from PIL import Image
 
-from aiohttp import web
 from aiohttp import web, ClientSession
-from aiohttp.web_exceptions import HTTPFound
+
 
 NASA_API_KEY = 'DEMO_KEY'
 ROVER_URL = 'https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos'
