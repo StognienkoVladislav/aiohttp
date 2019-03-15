@@ -1,0 +1,6 @@
+
+# Our default configuration file
+
+site_name: 'Demo site'
+
+database_uri: postgresql://localhost:5433/demo

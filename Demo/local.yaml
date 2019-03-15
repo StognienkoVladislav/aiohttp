@@ -1,0 +1,4 @@
+
+site_name: 'Demo site (dev env)'
+
+# database_uri: postgresql://user:passw@localhost:5433/demo_deploy
